@@ -11,6 +11,7 @@ def isEven_2(value):
 ## Задание 2:
   Напишем на Python 2 класса, один из которых будет основан на списке, а другой н коллекции deque 
   С классом на основе списка можно ознакомиться [здесь](https://github.com/C0ffee-Hunter/Lesta_games_intern_server_core_programmer/blob/master/Python/task_2_Circular.py)
+  
   С классом на основе колекции deque можно ознакомиться [здесь](https://github.com/C0ffee-Hunter/Lesta_games_intern_server_core_programmer/blob/master/Python/task_2_deque.py)
 
 ##Задание 3:
